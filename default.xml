@@ -19,7 +19,7 @@
 
   <remote name="xpe"
           fetch="https://github.com/TheXPerienceProject"
-          revision="refs/heads/xpe-19.0-qpr1" />
+          revision="refs/heads/xpe-19.2" />
 
   <remote name="xpe-staging"
           fetch="https://github.com/TheXPerienceProject-Staging"
